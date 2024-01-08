@@ -16,7 +16,7 @@ export default function Tab() {
         >
           <div className="flex justify-center space-x-4 ">
             <img
-              src="/src/assets/Sixty_Dome_Mosque_Bagerhat.jpg"
+              src="/public/Sixty_Dome_Mosque_Bagerhat.jpg"
               width={"400px"}
               height={"400px"}
             />
@@ -48,12 +48,12 @@ export default function Tab() {
         >
           <div className="flex justify-center space-x-4 ">
             <img
-              src="/src/assets/Rupsha_bridge1.jpg"
+              src="/public/Rupsha_bridge1.jpg"
               width={"400px"}
               height={"300px"}
             />
             <img
-              src="/src/assets/Rupsha_bridge2.jpg"
+              src="/public/Rupsha_bridge2.jpg"
               width={"400px"}
               height={"300px"}
             />
@@ -76,7 +76,7 @@ export default function Tab() {
         >
           <div className="flex justify-center space-x-4 ">
             <img
-              src="/src/assets/Port-of-Mongla.png"
+              src="/public/Port-of-Mongla.png"
               width={"400px"}
               height={"300px"}
             />
